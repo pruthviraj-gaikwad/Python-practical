@@ -107,7 +107,7 @@ def roman(object,base=10):
 	return s
 
 print(roman("0o0145",8))
-print(roman(69))
+print(roman(-69))
 print(roman("000123"))
 print(roman("0x0A",16))
 	
